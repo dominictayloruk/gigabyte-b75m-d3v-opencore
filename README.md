@@ -1,6 +1,6 @@
 # gigabyte-b75m-d3v-opencore
 
-This repo contains all the files required for Opencore 0.8.3 on the Gigabyte B75M D3V Motherboard with the following hardware;
+This repo contains all the files required for Opencore 0.9.5 on the Gigabyte B75M D3V Motherboard with the following hardware;
 
 - Gigabyte B75M D3V
 - Intel i5 3550 (Ivy Bridge)
@@ -10,10 +10,10 @@ This repo contains all the files required for Opencore 0.8.3 on the Gigabyte B75
 
 This config supports;
 
-- iMac Pro
+- iMac Pro (iMacPro1,1)
 - Filevault
 - Bluetooth & WiFi (with supported card)
-- Latest version of OpenCore 0.8.3
+- Latest version of OpenCore 0.9.5
 
 Things that need changing is;
 
